@@ -2,7 +2,7 @@
 import mapboxgl from 'mapbox-gl'
 import {onMounted} from 'vue'
 import {addImageWind} from '@/util/wind'
-import picUrl from '../dataSource/windData.png'
+import picUrl from '../dataSource/small[-21,-70][121,10].png'
 
 mapboxgl.accessToken =
     'pk.eyJ1IjoiamZycW5rYXV0aCIsImEiOiJjbWFnczNsY2EwNDY1MnNzMzBvcDJldTlqIn0.ZMud8As5Nuq0PCJT03lS4A'
