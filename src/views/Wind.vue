@@ -15,7 +15,7 @@ onMounted(() => {
   map = new mapboxgl.Map({
     container: 'map',
     style: 'https://api.maptiler.com/maps/satellite/style.json?key=yrI63Jl1lBD3vuaOlRPO',
-    center: [117.33386965024772, 28.845951896779454],
+    center: [106.56,33.2],
     zoom: 3,
     maxZoom: 13,
     minZoom: 2,
